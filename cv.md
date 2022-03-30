@@ -1,7 +1,7 @@
-#Viktoria Sviridova
-##FrontEnd and WordPress Developer
+# Viktoria Sviridova
+## FrontEnd and WordPress Developer
 * * *
-###Contact information
+### Contact information
 **Telegram(preferred connection):** @klgdfg
 **Phone:** +995 571 30 35 92(11 a.m. – 18 p.m.)
 **E-mail:** sss.mr.vk@gmail.com
@@ -9,9 +9,9 @@
 [Github](https://github.com/klgdf)
 [Upwork](https://www.linkedin.com/in/flsviridova/)
 * * *
-###Summary
+### Summary
 * * *
-###Skills
+### Skills
 **Hard skills**
   - HTML5 and Pug(Jade)
   - CSS3 (Bootstrap 4-5, Tailwind CSS, Sass/SCSS and BEM methodology)
