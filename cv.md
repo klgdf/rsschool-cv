@@ -30,7 +30,7 @@
   - Able to plan work time (Self-management and time-management)
 * * *
 ### Languages
-  - English - Pre-Intermediate
+  - English - Pre-Intermediate  
   In progress. I regularly study with a tutor, attend a conversation club and have practice in everyday life
   - Russian - Native
   - German - Elementary
