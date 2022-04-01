@@ -35,28 +35,32 @@ My strengths are in time-management, self-management as well as quick learner, a
 ### Experience
 * * *
 ### Portfolio and code examples
-  - #### Kochut - online-store of handcrafted jewellery and wooden decorations. Front-end development
-    [Kochut](https://kochut.org/en/)
-    **Summary:** Rubber layout used. Due to this, it was possible to reduce the time and budget for markup! Large project size - 37 pages.
-    **Technology:** Pug, SCSS, bundler Gulp and Vanilla JS.
+  - #### Kochut - online-store of handcrafted jewellery and wooden decorations. Front-end development  
+    [Kochut](https://kochut.org/en/)  
+    **Summary:** Rubber layout used. Due to this, it was possible to reduce the time and budget for markup! Large project size - 37 pages.  
+    **Technology:** Pug, SCSS, bundler Gulp and Vanilla JS.  
   - #### Teamwood - felled trees. Landing page layout
-    [Teamwood](https://teamwood.pro/)
-    **Technology:** Pug, Sass, bundler Gulp, lazy loading images, Vanilla JS
-  - #### Orcosa - Modernizing the way medicines are taken.
-    **Summary:** I completed the layout, created animations, staging on Wordpress using ACF Pro + Gutenberg
-    **Technology:** Pug, Sass/SCSS, bundler Gulp, Vanilla JS, lazy loading images, Wordpress + ACF Pro + Gutenberg
-    [Orcosa]()
-  - #### Gotostar - author's travel bureau. Turnkey site
-    **Summary:** I completed the layout, staging on Wordpress using ACF Pro, creating filters by seasons, regions, reasons and working out UX. I support this site
-    **Technology:** Pug, Sass, bundler Gulp, Vanilla JS, lazy loading images, Wordpress + ACF Pro
-    [Gotostar](https://gotostar.ru/en/home-2/)
-  - #### Minimal - online jewelry store. Page layout
-    [Minimal](https://minimal.com.ua/ua/jewelry-collection/skazhi-tak/)
-    **Technology:** HTML, Sass, bundler Gulp, Vanilla JS
-  - #### Multilingual broker site. Front-end development
-    **Summary:** pixel perfect layout, development in tandem with a tester using the bitbucket service. In fact, this is a full-fledged template - content is filled using CSV documents.
-    **Technology:** Pug, SCSS, bundler Gulp and Webpack, Vanilla JS, AOS - animate
-    [Dx-ter](https://result.cf/dx-ter/)
+    [Teamwood](https://teamwood.pro/)  
+    **Technology:** Pug, Sass, bundler Gulp, lazy loading images, Vanilla JS  
+  - #### Orcosa - Modernizing the way medicines are taken.  
+    [Orcosa]()  
+    **Summary:** I completed the layout, created animations, staging on Wordpress using ACF Pro + Gutenberg  
+    **Technology:** Pug, Sass/SCSS, bundler Gulp, Vanilla JS, lazy loading images, Wordpress + ACF Pro + Gutenberg  
+  - #### Gotostar - author's travel bureau. Turnkey site  
+    [Gotostar](https://gotostar.ru/en/home-2/)  
+    **Summary:** I completed the layout, staging on Wordpress using ACF Pro, creating filters by seasons, regions, reasons and working out UX. I support this site  
+    **Technology:** Pug, Sass, bundler Gulp, Vanilla JS, lazy loading images, Wordpress + ACF Pro  
+  - #### Minimal - online jewelry store. Page layout  
+    [Minimal](https://minimal.com.ua/ua/jewelry-collection/skazhi-tak/)  
+    **Technology:** HTML, Sass, bundler Gulp, Vanilla JS  
+  - #### Multilingual broker site. Front-end development  
+    [Dx-ter](https://result.cf/dx-ter/)  
+    **Summary:** pixel perfect layout, development in tandem with a tester using the bitbucket service. In fact, this is a full-fledged template - content is filled using CSV documents.  
+    **Technology:** Pug, SCSS, bundler Gulp and Webpack, Vanilla JS, AOS - animate  
+  - #### Intexpool - swimming pools and related products for the whole family. Design update and adaptive creation: mobile and tablet version
+    [Intexpool result](https://www.intexdev.xyz/)  
+    [Intexpool site source](https://www.intexpool.ua/)  
+    **Summary:** site created in 2009. Project complexity: cannot change html and js. The site was created on an engine that does not currently exist. The site was designed only for desktop, the customer didn't want to do a new layout.  
 * * *
 ### Languages
   - English - Pre-Intermediate  
