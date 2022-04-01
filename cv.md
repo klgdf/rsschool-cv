@@ -10,9 +10,11 @@
 [Upwork](https://www.linkedin.com/in/flsviridova/)  
 * * *
 ### Summary
-**Front-End and WordPress Developer with 2 years commercial experience.** During this time, 37 projects have been made by my hands, including quite large ones presented in the portfolio. She cooperated with customers from Ukraine, Russia, Czech Republic, Belarus, Germany, Moldova.
+**I am Front-End and WordPress Developer with 2 years commercial experience.** During this time, I have completed more than 25 projects. The most interesting of them are presented in the portfolio. Collaborated with customers from Ukraine, Russia, Czech Republic, Belarus, Germany, Moldova.  
 
-My strengths are in time-management, self-management as well as quick learner, ability to act independently.
+My strengths are in time-management, self-management, ability to learn quickly, flexibility. I love solving complex problems and puzzles.  
+
+The goal now is to get a job in a grocery company. I want to develop in the profession systematically and work in a team.  
 * * *
 ### Skills
 **Hard skills:**
@@ -27,12 +29,19 @@ My strengths are in time-management, self-management as well as quick learner, a
 
   - Git (remote service - GitHub, Bitbucket)
 
-  - Figma (for front-end development), Avocode, Zeplin
+  - knowledge of the basics of UX
+  - Figma and  Sketch (for front-end development)
 
 **Soft skills:**
-  - Able to plan work time (Self-management and time-management)
+  - Able to plan work time (Self-management and time-management) - I set goals, break them into semantic parts and take steps towards the goal regularly. I love to plan and prepare strategies in different areas of life
+  - Analytical Abilities
+  - Communication - I can explain complex things in simple terms and find a common language with people. Non-conflict person
+  - Problem Solving
+  - The ability to learn quickly
+
 * * *
 ### Experience
+  I have been freelancing for 2 years. I carry out orders for the creation of turnkey websites, WordPress development and front-end development.
 * * *
 ### Portfolio and code examples
   - #### Kochut - online-store of handcrafted jewellery and wooden decorations. Front-end development  
