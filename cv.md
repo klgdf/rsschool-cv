@@ -21,13 +21,14 @@ The goal now is to get a job in a product-based company. I want to evolve in the
   - CSS3 (Sass/SCSS and BEM methodology, Bootstrap 4-5, Tailwind CSS)
   - JavaScript (Fundamentals, Functional Programming, OOP, Async, Client-Side JavaScript)
   - GSAP, AOS and fullpage.js for animation
-  - Module Bundlers: Gulp
+  - Module Bundlers: Gulp, Webpack
 
   - Wordpress (ACF Pro + editor Gutenberg) and Woocommerce
   - WP Elementor
 
   - Git (remote service - GitHub, Bitbucket)
 
+  - basic knowledge NodeJs
   - knowledge of the basics of UX
   - Figma and Sketch (for front-end development)
 
@@ -67,8 +68,9 @@ The goal now is to get a job in a product-based company. I want to evolve in the
     **Technology:** Pug, SCSS, bundler Gulp and Webpack, Vanilla JS, AOS - animate  
   - #### Intexpool - swimming pools and related products for the whole family. Design update and adaptive creation: mobile and tablet version
     [Intexpool](https://www.intexpool.ua/)  
-    **Summary:** site created in 2009. Project complexity: cannot change html and js. The site was created on an engine that doesn’t currently exist.  The site was designed only for desktop, the customer didn't want to do a new layout.   
-* * *
+    **Summary:** site created in 2009. Project complexity: cannot change html and js. The site was created on an engine that doesn’t currently exist.  The site was designed only for desktop, the customer didn't want to do a new layout.  
+
+***
 ### Education
 At the beginning of my career, I had a mentor, [Victor Buchner](https://freelancehunt.com/freelancer/welcomehom3.html). He helped me learn the basics of web development. Now we are partners.
 
