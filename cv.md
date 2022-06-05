@@ -11,7 +11,7 @@
 ### Summary
 **I am Front-End and WordPress Developer with 2 years of commercial experience.** During this time, I have completed more than 25 projects. The most interesting of them are presented in the portfolio. Collaborated with customers from Ukraine, Russia, Czech Republic, Belarus, Germany and Moldova.  
 
-My strengths are in time-management, self-management, ability to learn quickly, flexibility. I love solving complex problems and puzzles.  
+My strengths in time-management, self-management, ability to learn quickly, flexibility. I love solving complex problems and puzzles.  
 
 The goal now is to get a job in a product-based company. I want to evolve in the profession systematically, and work in a team.  
 * * *
@@ -32,9 +32,9 @@ The goal now is to get a job in a product-based company. I want to evolve in the
   - Figma and Sketch (for front-end development)
 
 **Soft skills:**
-  - Able to plan work time (Self-management and time-management) - I set goals, break them into semantic parts and take steps towards the goal regularly. I love to plan and prepare strategies in different areas of life
+  - The ability to plan work time (Self-management and time-management) - I set goals, break them into semantic parts and take steps towards the goal regularly. I love to plan and prepare strategies in different areas of life
   - Analytical Abilities
-  - Communication - I can explain complex things in simple terms and find a common language with people. Non-conflict person
+  - Communication: I can explain complex things in simple terms and find a common language with people. Non-conflict person
   - Problem Solving
   - The ability to learn quickly
 
@@ -66,9 +66,8 @@ The goal now is to get a job in a product-based company. I want to evolve in the
     **Summary:** pixel perfect layout, development in tandem with a tester using the Bitbucket service. In fact, this is a full-fledged template - content is filled using CSV documents.  
     **Technology:** Pug, SCSS, bundler Gulp and Webpack, Vanilla JS, AOS - animate  
   - #### Intexpool - swimming pools and related products for the whole family. Design update and adaptive creation: mobile and tablet version
-    [Intexpool result](https://www.intexdev.xyz/)  
-    [Intexpool site source](https://www.intexpool.ua/)  
-    **Summary:** site created in 2009. Project complexity: cannot change html and js. The site was created on an engine that doesgit n't currently exist. The site was designed only for desktop, the customer didn't want to do a new layout.  
+    [Intexpool](https://www.intexpool.ua/)  
+    **Summary:** site created in 2009. Project complexity: cannot change html and js. The site was created on an engine that doesn’t currently exist.  The site was designed only for desktop, the customer didn't want to do a new layout.   
 * * *
 ### Education
 At the beginning of my career, I had a mentor, [Victor Buchner](https://freelancehunt.com/freelancer/welcomehom3.html). He helped me learn the basics of web development. Now we are partners.
