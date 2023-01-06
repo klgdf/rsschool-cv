@@ -71,7 +71,7 @@ My strengths are in time-management, self-management, ability to learn quickly, 
   - #### Intexpool - swimming pools and related products for the whole family. Design update and adaptive creation: mobile and tablet version
     [Intexpool result](https://www.intexdev.xyz/)  
     [Intexpool site source](https://www.intexpool.ua/)  
-    **Summary:** site created in 2009. Project complexity: cannot change html and js. The site was created on an engine that doesgit n't currently exist. The site was designed only for desktop, the customer didn't want to do a new layout.  
+    **Summary:** site created in 2009. Project complexity: cannot change html and js. The site was created on an engine that doesgit n't currently exist. The site was designed only for desktop, the customer didn't want to do a new layout. 
 * * *
 ### Education
 At the beginning of my career, I had a mentor, [Victor Buchner](https://freelancehunt.com/freelancer/welcomehom3.html). He helped me learn the basics of web development. Now we are partners.
