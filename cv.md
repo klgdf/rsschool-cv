@@ -2,14 +2,14 @@
 ## FrontEnd and WordPress Developer
 * * *
 ### Contact information
-**Telegram (preferred connection):** @sviridovafl
-**Phone:** +995 571 30 35 92 (11 a.m. – 18 p.m.)  
-**E-mail:** sss.mr.vk@gmail.com  
+**Telegram (preferred connection):** @sviridovafl   
+**Phone:** +995 571 30 35 92 (11 a.m. – 18 p.m.)   
+**E-mail:** sss.mr.vk@gmail.com   
 [LinkedIn](https://www.linkedin.com/in/flsviridova/)  
 [Github](https://github.com/klgdf)  
 * * *
 ### Summary
-**I am Front-End and WordPress Developer with 3 years of commercial experience.** During this time, I have completed more than 25 projects. The most interesting of them are presented in the portfolio. Collaborated with customers from Ukraine, Russia, Georgia, Czech Republic, Belarus, Germany and Moldova.  
+**I am Front-End and WordPress Developer with 3 years of commercial experience.** During this time, I have completed more than 25 projects. The most interesting of them are presented in the portfolio. Collaborated with customers from Russia, Ukraine, Georgia, USA, Czech Republic, Belarus, Germany and Moldova.   
 
 My strengths are in time-management, self-management, ability to learn quickly, flexibility. I love solving complex problems and puzzles.  
 * * *
@@ -71,8 +71,7 @@ My strengths are in time-management, self-management, ability to learn quickly, 
   - #### Intexpool - swimming pools and related products for the whole family. Design update and adaptive creation: mobile and tablet version
     [Intexpool result](https://www.intexdev.xyz/)  
     [Intexpool site source](https://www.intexpool.ua/)  
-    **Summary:** site created in 2009. Project complexity: cannot change html and js. The site was created on an engine that doesgit n't currently exist. The site was designed only for desktop, the customer didn't want to do a new layout.    
-  
+    **Summary:** site created in 2009. Project complexity: cannot change html and js. The site was created on an engine that doesgit n't currently exist. The site was designed only for desktop, the customer didn't want to do a new layout.  
 * * *
 ### Education
 At the beginning of my career, I had a mentor, [Victor Buchner](https://freelancehunt.com/freelancer/welcomehom3.html). He helped me learn the basics of web development. Now we are partners.
