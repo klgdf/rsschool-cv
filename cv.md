@@ -76,7 +76,7 @@ My strengths are in time-management, self-management, ability to learn quickly, 
 ### Education
 At the beginning of my career, I had a mentor, [Victor Buchner](https://freelancehunt.com/freelancer/welcomehom3.html). He helped me learn the basics of web development. Now we are partners.
 
-Studied at stages 1 and 2 at [rsschool](https://rs.school/) on the frontend course (JavaScript/Front-end 2022Q1 and JavaScript/Front-end 2022Q3).
+Studied at stages 1 and 2 at [The Rolling Scopes School](https://rs.school/) on the frontend course (JavaScript/Front-end 2022Q1 and JavaScript/Front-end 2022Q3).
 * * *
 ### Languages
   - English - Pre-Intermediate  
